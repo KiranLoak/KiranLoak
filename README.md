@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kiranse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kirannhce@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kiranloak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kiran.ai.fullstack@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://kiran-portfolio-lovat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=KiranLoak&label=Profile%20Views&color=E8C547&style=for-the-badge" />
 </p>
@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Software Engineer with **1.3 years** shipping production software at **Advarra**, a clinical-trial SaaS platform serving 1,000+ research sites
+- 🔭 Software Engineer with **1.5+ years** shipping production software at **Advarra**, a clinical-trial SaaS platform serving 1,000+ research sites
 - 🤖 I build **full-stack web applications** *and* **AI agents powered by LLMs and ML** not just one or the other
 - 🛠️ Architected **Halo**, an LLM-powered sprint management tool adopted by 150+ engineers company-wide
 - 🧪 Independently shipped 4 production-ready AI apps a multi-agent FNOL claims processor (LLaMA 3.1 + Groq), an async transcription API with MCP support, a portfolio optimizer, and a file-conversion platform
