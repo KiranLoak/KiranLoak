@@ -1,82 +1,106 @@
-<h1 align="center">Hi 👋, I'm Kiran V</h1>
-<h3 align="center">Full Stack AI Engineer — building web apps and AI agents that ship</h3>
+<h1 align="center">Hi, I'm Kiran V 👋</h1>
+
+<h3 align="center">Full-Stack AI Engineer · From AI workflows to production software</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E8C547&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;LLMs+%2B+RAG+%2B+Agentic+AI;Software+Engineer+%40+Advarra;I+build+things+that+go+to+production" alt="Typing SVG" />
+  I build applications end to end—connecting useful AI with reliable backends and intuitive interfaces.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kiranloak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kiran.ai.fullstack@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://kiran-portfolio-lovat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KiranLoak&label=Profile%20Views&color=E8C547&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KiranLoak&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🔭 Software Engineer with **1.5+ years** shipping production software at **Advarra**, a clinical-trial SaaS platform serving 1,000+ research sites
-- 🤖 I build **full-stack web applications** *and* **AI agents powered by LLMs and ML** not just one or the other
-- 🛠️ Architected **Halo**, an LLM-powered sprint management tool adopted by 150+ engineers company-wide
-- 🧪 Independently shipped 4 production-ready AI apps a multi-agent FNOL claims processor (LLaMA 3.1 + Groq), an async transcription API with MCP support, a portfolio optimizer, and a file-conversion platform
-- 🌱 Currently going deeper on **Agentic AI, RAG pipelines, and vector databases**
-- 💬 Ask me about **LangChain · RAG · LLM orchestration · Java/Spring Boot · React**
-- ⚡ Fun fact: Halo saves my team 5+ hours of manual sprint reporting — *every sprint*
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nodejs,flask,fastapi,spring,docker,aws,git,linux,mysql,postgres,pytorch,tensorflow,sklearn,pandas,numpy&theme=dark&perline=10" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-E8C547?style=flat-square&logo=databricks&logoColor=black" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-4ECDC4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-6E56CF?style=flat-square" />
+  <a href="https://linkedin.com/in/kiranloak">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kiran.ai.fullstack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kiran" />
+  </a>
+  <a href="https://kiran-portfolio-lovat.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-### 💻 GitHub Activity
+### About me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiranLoak&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity" width="100%" />
-</p>
+I'm a **Full-Stack AI Engineer with 1.5+ years of experience** shipping software across generative AI, legal tech, and healthcare.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiranLoak&theme=tokyonight" />
-</p>
+Currently at **Cellstrat**, I own full-stack features for an AI-powered legal-tech client—from backend design and frontend implementation to testing and production monitoring. Previously at **Advarra**, I worked on clinical trial software serving **1,000+ research sites** and built an internal LLM-powered tool adopted by **150+ engineers**.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiranLoak&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiranLoak&theme=tokyonight" />
-</p>
+I enjoy the whole engineering problem: designing the workflow, building the interface, tracing a slow request, and making sure the result holds up in production.
 
-### 🚀 Featured Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| **[ClaimSight](https://github.com/KiranLoak)** | Python · Flask · LLaMA 3.1 · Groq · LangChain | Agentic FNOL insurance claims processor — extracts, validates, and auto-routes claims via multi-step LLM reasoning |
-| **[Agent-First Transcription API](https://github.com/KiranLoak)** | FastAPI · Whisper · Gemini · MCP | Async, multi-stage transcription pipeline with speaker diarization and MCP support for agent-stack integration |
-| **Halo** *(internal @ Advarra)* | LLM + JIRA API | Sprint-health dashboard adopted by 150+ engineers, automating what used to be manual Confluence/Excel tracking |
+- **Building with:** Python, FastAPI, Next.js, React, and PostgreSQL
+- **AI focus:** LLM applications, RAG, agent workflows, and MCP integrations
+- **Engineering approach:** Own the outcome, test the behavior, and investigate the root cause
+- **Outside work:** Building independent AI applications that solve practical problems
 
 ---
 
-### 🐍 Contribution Snake
+### What I've shipped
+
+**Cellstrat · Full-Stack AI Engineer**  
+*July 2026 – Present*
+
+Building document analysis workflows for litigation teams across a **FastAPI / SQLAlchemy / pgvector** backend and a **Next.js / React** frontend.
+
+- Delivered tenant-aware branding for PDF and Excel reports, backed by **220+ dedicated unit tests**.
+- Connected per-record timelines into a unified case-wide view, implementing changes from schema to UI.
+- Traced a production latency bottleneck to cloud-storage authentication blocking the async event loop across **16+ call sites**, then redesigned it as a cached service.
+- Added server-side pagination to keep timeline and records queries bounded as cases grow.
+- Validate changes against a **2,700+ backend test suite**, alongside type and lint checks.
+
+**Advarra · Software Engineer I**  
+*March 2025 – May 2026*
+
+Worked on a clinical trial SaaS platform supporting **1,000+ research sites**.
+
+- Resolved **150+ production defects and security vulnerabilities** across six release cycles.
+- Built **Halo**, an LLM-powered sprint management tool adopted by **150+ engineers**, saving **5+ hours of reporting per team per sprint**.
+- Improved frontend load performance by **40%** and SQL query execution by approximately **30%**.
+- Remediated critical vulnerabilities including SSRF, XXE, Regex DoS, and SQL injection.
+
+---
+
+### Selected projects
+
+| Project | What I built | Core stack |
+| :--- | :--- | :--- |
+| **ClaimSight** | An agentic insurance claims processor that extracts information from unstructured documents, validates fields, and routes claims through multi-step LLM reasoning. | Python · Flask · LLaMA 3.1 · Groq · LangChain |
+| **Agent-First Transcription API** | An asynchronous transcription pipeline with speaker diarization, AI summaries, and MCP support for integration with AI agents. | Python · FastAPI · Whisper · Chirp 3 · Gemini · MCP |
+| **Halo** · Internal at Advarra | An LLM-powered sprint management tool that integrates with Jira to automate reporting and surface sprint health. | LLMs · Jira API |
+
+Additional independent projects include a **financial portfolio optimizer** and a **full-stack file conversion platform**.
+
+---
+
+### Technical toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · JavaScript · SQL |
+| **Frontend** | React · Next.js · HTML · CSS |
+| **Backend** | FastAPI · Flask · Node.js · SQLAlchemy · Pydantic · REST APIs |
+| **AI & ML** | LLMs · RAG · LangChain · Agentic AI · Prompt Engineering · Scikit-learn |
+| **Data** | PostgreSQL · pgvector · Pandas · NumPy |
+| **Cloud & Delivery** | AWS · GCP · Cloud Run · Cloud SQL · Cloud Tasks · Docker · GitHub Actions · CI/CD |
+| **Tools & Practices** | Git · Linux · Jira · Test-driven development · Production debugging |
+
+---
+
+### GitHub activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KiranLoak/KiranLoak/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KiranLoak&theme=github-compact&hide_border=true&area=true"
+    alt="Kiran's public GitHub contribution activity"
+    width="100%"
+  />
 </p>
 
 ---
 
-<p align="center"><i>Currently open to Full Stack AI Engineer / GenAI Engineer roles — <a href="mailto:kirannhce@gmail.com">let's talk</a></i></p>
+### Let's connect
+
+I'm interested in **Full-Stack AI Engineer, Generative AI Engineer, and Software Engineer** opportunities where I can own features, solve meaningful problems, and ship useful products.
+
+📫 **[kiran.ai.fullstack@gmail.com](mailto:kiran.ai.fullstack@gmail.com)**  
+[LinkedIn](https://linkedin.com/in/kiranloak) · [Portfolio](https://kiran-portfolio-lovat.vercel.app/)
