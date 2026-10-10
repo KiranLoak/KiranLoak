@@ -86,14 +86,16 @@ Additional independent projects include a **financial portfolio optimizer** and 
 
 ---
 
-### GitHub activity
+<h3>💻 GitHub Contributions</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KiranLoak&theme=github-compact&hide_border=true&area=true"
-    alt="Kiran's public GitHub contribution activity"
-    width="100%"
-  />
+  <a href="https://github.com/KiranLoak">
+    <img
+      src="https://ghchart.rshah.org/E8C547/KiranLoak"
+      alt="Kiran's GitHub contribution graph"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
